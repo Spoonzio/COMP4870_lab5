@@ -1,0 +1,35 @@
+@{
+    ViewData["Title"] = "Convert Page";
+}
+
+<div class="text-center">
+    @using (Html.BeginForm("Index", "Convert", FormMethod.Post))
+    {
+        <table>
+            <tr>
+                <td>
+                    <select name="fromTempUnit" id="fromTempUnit">
+                        <option value="Celsius">Celsius</option>
+                        <option value="Kelvin">Kelvin</option>
+                        <option value="Fahrenheit">Fahrenheit</option>
+                    </select>
+                </td>
+                <td>
+                    <input type="number" name="fromTempValue" id="fromTempValue" value='@ViewData["FromTempValue"]'>  
+                </td>
+                <td>
+                    <input type="submit" name="convert" value="Convert >>">            
+                <td>
+                    <input readonly type="number" name="toTempValue" id="toTempValue" value='@ViewData["ToTempValue"]'>  
+                </td>
+                <td>
+                    <select name="toTempUnit" id="toTempUnit">
+                        <option value="Celsius">Celsius</option>
+                        <option value="Kelvin">Kelvin</option>
+                        <option value="Fahrenheit">Fahrenheit</option>
+                    </select>
+                </td>
+            </tr>
+        </table>
+    }
+</div>

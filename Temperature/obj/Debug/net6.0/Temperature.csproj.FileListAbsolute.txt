@@ -1,0 +1,15 @@
+C:\CST\COMP 4870 INTRANET\Lab05\TemperatureConversion\Temperature\bin\Debug\net6.0\Temperature.exe
+C:\CST\COMP 4870 INTRANET\Lab05\TemperatureConversion\Temperature\bin\Debug\net6.0\Temperature.deps.json
+C:\CST\COMP 4870 INTRANET\Lab05\TemperatureConversion\Temperature\bin\Debug\net6.0\Temperature.runtimeconfig.json
+C:\CST\COMP 4870 INTRANET\Lab05\TemperatureConversion\Temperature\bin\Debug\net6.0\Temperature.dll
+C:\CST\COMP 4870 INTRANET\Lab05\TemperatureConversion\Temperature\bin\Debug\net6.0\ref\Temperature.dll
+C:\CST\COMP 4870 INTRANET\Lab05\TemperatureConversion\Temperature\bin\Debug\net6.0\Temperature.pdb
+C:\CST\COMP 4870 INTRANET\Lab05\TemperatureConversion\Temperature\obj\Debug\net6.0\Temperature.GeneratedMSBuildEditorConfig.editorconfig
+C:\CST\COMP 4870 INTRANET\Lab05\TemperatureConversion\Temperature\obj\Debug\net6.0\Temperature.AssemblyInfoInputs.cache
+C:\CST\COMP 4870 INTRANET\Lab05\TemperatureConversion\Temperature\obj\Debug\net6.0\Temperature.AssemblyInfo.cs
+C:\CST\COMP 4870 INTRANET\Lab05\TemperatureConversion\Temperature\obj\Debug\net6.0\Temperature.csproj.CoreCompileInputs.cache
+C:\CST\COMP 4870 INTRANET\Lab05\TemperatureConversion\Temperature\obj\Debug\net6.0\Temperature.dll
+C:\CST\COMP 4870 INTRANET\Lab05\TemperatureConversion\Temperature\obj\Debug\net6.0\ref\Temperature.dll
+C:\CST\COMP 4870 INTRANET\Lab05\TemperatureConversion\Temperature\obj\Debug\net6.0\Temperature.pdb
+C:\CST\COMP 4870 INTRANET\Lab05\TemperatureConversion\Temperature\obj\Debug\net6.0\Temperature.genruntimeconfig.cache
+C:\CST\COMP 4870 INTRANET\Lab05\TemperatureConversion\Temperature\obj\Debug\net6.0\Temperature.csproj.AssemblyReference.cache

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "785d876b-55dc-41b3-a0ec-3bff924f7176": {
+      "ProjectGuid": "785d876b-55dc-41b3-a0ec-3bff924f7176",
+      "DisplayName": "TemperatureWeb",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
